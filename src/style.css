@@ -10,3 +10,54 @@ li a{
 nav{
     float: right;
 }
+
+body{
+    margin: 5% 5% 5% 5% ;
+}
+#header{
+    overflow: hidden;
+}
+h1{
+    padding: 16px;
+}
+.div_box{
+    background-color: #d3d3d367;
+    padding: 2%;
+}
+.width_33{
+    width: 33%;
+}
+#paraHt{
+    line-height: 1.5;
+}
+#learn_more_btn{
+    padding: 5px;
+}
+.card{
+    float: left;
+    width: 25%;
+    display: flex;
+    margin: 30px;
+    display: block;
+    text-align: center;
+    line-height: 1.4;
+}
+#content{
+    margin: auto;
+}
+
+.inner_card{
+    background-color: #d3d3d367;
+    padding: 78px 148px 70px 50px;
+}
+.flex_box{
+    display: flex;
+    place-content: center;
+}
+.a_font{
+    color: black;
+}
+#footer{
+    text-align: center;
+    background-color: #d3d3d367;
+    padding: 40px;
